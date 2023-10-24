@@ -37,7 +37,7 @@
     "vite-plugin-logseq": "1.1.2"
   },
   "logseq": {
-    "id": "CNLHC-logseq-figma",
+    "id": "logseq-figma",
     "icon": "./assets/logo.svg"
   }
 }
