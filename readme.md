@@ -2,4 +2,4 @@
 
 embed figma frame into logseq.
 
-![demo video](./assets/demo.mp4)
+![demo video](./assets/demo.gif)
