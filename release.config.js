@@ -20,7 +20,7 @@ module.exports = {
       "@semantic-release/exec",
       {
         prepareCmd:
-          "zip -qq -r logseq-figma-${nextRelease.version}.zip dist readme.md logo.svg LICENSE package.json assets",
+          "zip -qq -r logseq-figma-${nextRelease.version}.zip dist readme.md icon.png LICENSE package.json assets",
       },
     ],
     [
