@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/CNLHC/logseq-figma/compare/v1.0.1...v1.1.0) (2023-10-26)
+
+
+### Features
+
+* remove unnecessary message on plugin load ([53919d1](https://github.com/CNLHC/logseq-figma/commit/53919d197bbab2a8bb051579ce6cc2d632d3ad68))
+
 ## [1.0.1](https://github.com/CNLHC/logseq-figma/compare/v1.0.0...v1.0.1) (2023-10-25)
 
 
