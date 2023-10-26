@@ -1,8 +1,6 @@
 import "@logseq/libs";
 
 function main() {
-  logseq.UI.showMsg("logseq-figma Plugin Loaded");
-
   logseq.Editor.registerSlashCommand("Figma", async () => {
     await logseq.Editor.insertAtEditingCursor(
       `{{renderer :figma, <figma_url> }}`
